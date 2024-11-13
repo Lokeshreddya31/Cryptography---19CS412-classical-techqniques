@@ -1,6 +1,8 @@
 # Cryptography---19CS412-classical-techqniques
+# EX.NO:1-Caeser Cipher
+# DATE:12-08-2024
 # Reg no : 212223040104
-# Caeser Cipher
+
 Caeser Cipher using with different key values
 
 # AIM:
@@ -83,7 +85,8 @@ The program is executed successfully
 
 ---------------------------------
 
-# PlayFair Cipher
+# EX.NO:2-PlayFair Cipher
+# DATE:19-08-2024
 Playfair Cipher using with different key values
 
 # AIM:
@@ -264,7 +267,8 @@ The program is executed successfully
 
 ---------------------------
 
-# Hill Cipher
+# EX.NO:3-Hill Cipher
+# DATE:29-08-2024
 Hill Cipher using with different key values
 
 # AIM:
@@ -382,7 +386,8 @@ The program is executed successfully
 
 -------------------------------------------------
 
-# Vigenere Cipher
+# EX.NO:4-Vigenere Cipher
+# DATE:02-09-2024
 Vigenere Cipher using with different key values
 
 # AIM:
@@ -459,7 +464,8 @@ The program is executed successfully
 
 -----------------------------------------------------------------------
 
-# Rail Fence Cipher
+# EX.NO:5-Rail Fence Cipher
+# DATE:12-09-2024
 Rail Fence Cipher using with different key values
 
 # AIM:
